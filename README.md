@@ -81,8 +81,8 @@ The project demonstrates how to build and train a neural network directly within
 
 <h2>📢 <strong>Contact</strong></h2>
 <ul>
-  <li><a href="https://www.linkedin.com/in/yourusername/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a></li>
-  <li><a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a></li>
+  <li><a href="https://www.linkedin.com/in/ecembayindir/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a></li>
+  <li><a href="mailto:ecmbyndr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a></li>
 </ul>
 
 <p align="center">&copy; 2025 Your Name. All rights reserved.</p>
