@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: example.GetRelationshipTypesTests
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.878 s -- in example.GetRelationshipTypesTests
