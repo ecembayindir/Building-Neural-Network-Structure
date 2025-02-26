@@ -7,6 +7,15 @@
 This project aims to construct a neural network structure using the Neo4j graph database. The objective is to model a neural network using only Neo4j and Python, without relying on popular libraries like TensorFlow. The project includes development of stored procedures containing Cypher queries implemented in Java.
 </p>
 
+<h2>🔧 <strong>Technologies Used</strong></h2>
+<div align="center">
+    <img src="https://img.shields.io/badge/neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
+    <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+    <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+</div>
+
 <h2>📂 <strong>Project Summary</strong></h2>
 <p>
 The project demonstrates how to build and train a neural network directly within a graph database environment. By leveraging Neo4j's native graph structure, neural networks can be modeled in their most natural form - as interconnected nodes (neurons) with weighted relationships. This approach provides unique insights into neural network operations and demonstrates the potential of graph databases in machine learning applications.
@@ -51,15 +60,6 @@ The project demonstrates how to build and train a neural network directly within
   <li>Added min-max scaling in normalization functions.</li>
   <li>Optimized forward pass and loss calculation methods.</li>
 </ul>
-
-<h2>🔧 <strong>Technologies Used</strong></h2>
-<div align="center">
-    <img src="https://img.shields.io/badge/neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
-    <img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-    <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven"/>
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-</div>
 
 <h2>📊 <strong>Key Improvements</strong></h2>
 <ul>
