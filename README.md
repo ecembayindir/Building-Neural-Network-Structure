@@ -85,7 +85,7 @@ The project demonstrates how to build and train a neural network directly within
   <li><a href="mailto:ecmbyndr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a></li>
 </ul>
 
-<p align="center">&copy; 2025 Your Name. All rights reserved.</p>
+<p align="center">&copy; 2025 Ecem Bayındır. All rights reserved.</p>
 
 <hr/>
 
