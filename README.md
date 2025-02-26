@@ -90,10 +90,6 @@ The project demonstrates how to build and train a neural network directly within
 <hr/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&repo=neural-network-neo4j&label=Repository%20views&color=0e75b6&style=flat" alt="Repository Views">
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ecembayindir&repo=Building-Neural-Network-Structure&label=Repository%20views&color=0e75b6&style=flat" alt="Repository Views">
 </p>
 
